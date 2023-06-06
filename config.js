@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['+94711058447', 'PODDA', true],
+  ['+94711058447', 'PODDa', true], 
   [''] 
 ] //Number of owners
 
@@ -59,7 +59,7 @@ global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '* L O D I N G*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
